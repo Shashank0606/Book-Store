@@ -1,0 +1,64 @@
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-08T11:05:25.156Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T11:05:25.343Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-03-08T11:07:24.971Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-08T11:10:39.437Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T11:10:39.461Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token } in JSON at position 76
+    at JSON.parse (<anonymous>)
+    at parse (D:\Java Script\BookStore\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\Java Script\BookStore\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\Java Script\BookStore\node_modules\raw-body\index.js:231:16)
+    at done (D:\Java Script\BookStore\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\Java Script\BookStore\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/forgetPass 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-03-08T11:12:24.209Z"}
+error: 
+    status - 500 
+    message - Error: User already exist
+    at _callee$ (D:\Java Script\BookStore\src\services\/user.service.js:25:11)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-03-08T11:14:10.577Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-08T11:38:47.146Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T11:38:47.164Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T13:33:16.947Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T13:33:44.506Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T13:34:00.659Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T13:34:18.942Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T13:34:26.182Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T13:35:13.687Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T13:36:25.653Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T13:37:07.951Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T13:37:17.989Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T13:37:23.491Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T13:37:28.860Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T13:37:42.554Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T13:37:47.452Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T13:39:36.585Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T13:39:43.929Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T13:42:19.980Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T13:42:46.930Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T13:43:09.985Z"}
+info: Connected to the database. {"timestamp":"2023-03-08T13:43:16.697Z"}

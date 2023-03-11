@@ -1,0 +1,318 @@
+info: Connected to the database. {"timestamp":"2023-03-10T05:11:24.993Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:15:25.183Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:15:32.689Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:20:46.866Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:22:34.470Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:23:45.365Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:28:24.872Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:28:31.431Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:29:07.645Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:29:18.296Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-10T05:29:39.342Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:29:39.441Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Books is not defined
+    at _callee$ (D:\Java Script\BookStore\src\services\/book.service.js:7:23)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.getAll (D:\Java Script\BookStore\src\services\/book.service.js:7:20)
+    at _callee$ (D:\Java Script\BookStore\src\controllers\/book.controller.js:7:40)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAll (D:\Java Script\BookStore\src\controllers\/book.controller.js:5:20)
+    at Layer.handle [as handle_request] (D:\Java Script\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Java Script\BookStore\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (D:\Java Script\BookStore\src\middlewares\/auth.middleware.js:26:5)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/books 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-03-10T05:35:04.395Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-10T05:35:47.008Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:35:47.040Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-10T05:35:54.604Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:35:54.646Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-10T05:36:59.313Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:36:59.400Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-10T05:46:47.136Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:46:47.156Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-10T05:47:02.798Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:47:02.821Z"}
+error: 
+    status - 500 
+    message - Error: TypeError: Cannot read properties of undefined (reading 'lenght')
+    at _callee$ (D:\Java Script\BookStore\src\services\/book.service.js:21:15)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.getAll (D:\Java Script\BookStore\src\services\/book.service.js:16:20)
+    at _callee$ (D:\Java Script\BookStore\src\controllers\/book.controller.js:7:40)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAll (D:\Java Script\BookStore\src\controllers\/book.controller.js:5:20)
+    at Layer.handle [as handle_request] (D:\Java Script\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Java Script\BookStore\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (D:\Java Script\BookStore\src\middlewares\/auth.middleware.js:26:5)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/books/ 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-03-10T05:47:32.296Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-10T05:49:36.397Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:49:36.418Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-10T05:49:40.711Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:49:40.740Z"}
+error: 
+    status - 500 
+    message - TypeError: BookService.getAll is not a function
+    at _callee$ (D:\Java Script\BookStore\src\controllers\/book.controller.js:7:40)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAll (D:\Java Script\BookStore\src\controllers\/book.controller.js:5:20)
+    at Layer.handle [as handle_request] (D:\Java Script\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Java Script\BookStore\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (D:\Java Script\BookStore\src\middlewares\/auth.middleware.js:26:5)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/books/ 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-03-10T05:49:43.443Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-10T05:49:53.698Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:49:53.719Z"}
+error: 
+    status - 500 
+    message - Error: TypeError: Cannot read properties of undefined (reading 'lenght')
+    at _callee$ (D:\Java Script\BookStore\src\services\/book.service.js:21:15)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.getAll (D:\Java Script\BookStore\src\services\/book.service.js:16:20)
+    at _callee$ (D:\Java Script\BookStore\src\controllers\/book.controller.js:7:40)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAll (D:\Java Script\BookStore\src\controllers\/book.controller.js:5:20)
+    at Layer.handle [as handle_request] (D:\Java Script\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Java Script\BookStore\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (D:\Java Script\BookStore\src\middlewares\/auth.middleware.js:26:5)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/books/ 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-03-10T05:49:56.663Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-10T05:50:40.507Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:50:40.526Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-10T05:50:47.603Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:50:47.622Z"}
+error: 
+    status - 500 
+    message - Error: ReferenceError: data is not defined
+    at _callee$ (D:\Java Script\BookStore\src\services\/book.service.js:21:15)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.getAll (D:\Java Script\BookStore\src\services\/book.service.js:16:20)
+    at _callee$ (D:\Java Script\BookStore\src\controllers\/book.controller.js:7:40)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAll (D:\Java Script\BookStore\src\controllers\/book.controller.js:5:20)
+    at Layer.handle [as handle_request] (D:\Java Script\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Java Script\BookStore\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (D:\Java Script\BookStore\src\middlewares\/auth.middleware.js:26:5)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/books/ 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-03-10T05:50:50.666Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-10T05:52:28.558Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:52:28.578Z"}
+error: 
+    status - 500 
+    message - Error: ReferenceError: data is not defined
+    at _callee$ (D:\Java Script\BookStore\src\services\/book.service.js:21:15)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.getAll (D:\Java Script\BookStore\src\services\/book.service.js:16:20)
+    at _callee$ (D:\Java Script\BookStore\src\controllers\/book.controller.js:7:40)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAll (D:\Java Script\BookStore\src\controllers\/book.controller.js:5:20)
+    at Layer.handle [as handle_request] (D:\Java Script\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Java Script\BookStore\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (D:\Java Script\BookStore\src\middlewares\/auth.middleware.js:26:5)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/books/ 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-03-10T05:52:31.302Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-10T05:52:37.457Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:52:37.483Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-10T05:57:07.875Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T05:57:07.899Z"}
+error: 
+    status - 500 
+    message - Error: TypeError: Cannot read properties of undefined (reading 'lenght')
+    at _callee$ (D:\Java Script\BookStore\src\services\/book.service.js:21:15)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.getAll (D:\Java Script\BookStore\src\services\/book.service.js:16:20)
+    at _callee$ (D:\Java Script\BookStore\src\controllers\/book.controller.js:7:40)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAll (D:\Java Script\BookStore\src\controllers\/book.controller.js:5:20)
+    at Layer.handle [as handle_request] (D:\Java Script\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Java Script\BookStore\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (D:\Java Script\BookStore\src\middlewares\/auth.middleware.js:26:5)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/books/ 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-03-10T05:57:11.872Z"}
+error: 
+    status - 500 
+    message - Error: TypeError: Cannot read properties of undefined (reading 'lenght')
+    at _callee$ (D:\Java Script\BookStore\src\services\/book.service.js:21:15)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.getAll (D:\Java Script\BookStore\src\services\/book.service.js:16:20)
+    at _callee$ (D:\Java Script\BookStore\src\controllers\/book.controller.js:7:40)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at getAll (D:\Java Script\BookStore\src\controllers\/book.controller.js:5:20)
+    at Layer.handle [as handle_request] (D:\Java Script\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Java Script\BookStore\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (D:\Java Script\BookStore\src\middlewares\/auth.middleware.js:26:5)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/books/ 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-03-10T06:24:33.038Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-10T06:24:58.550Z"}
+info: Connected to the database. {"timestamp":"2023-03-10T06:24:58.577Z"}
