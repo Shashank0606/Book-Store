@@ -1,0 +1,91 @@
+info: Connected to the database. {"timestamp":"2023-03-13T04:20:20.861Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T04:21:59.130Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T04:21:59.214Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Cart is not defined
+    at _callee$ (D:\Java Script\BookStore\src\services\/cart.service.js:20:41)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/carts/6214803b05253301a4fda584 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-03-13T04:23:03.869Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Cart is not defined
+    at _callee$ (D:\Java Script\BookStore\src\services\/cart.service.js:20:41)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/carts/6214803b05253301a4fda584 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-03-13T04:28:34.811Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Cart is not defined
+    at _callee$ (D:\Java Script\BookStore\src\services\/cart.service.js:20:41)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/carts/6214803b05253301a4fda584 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-03-13T04:28:37.891Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Cart is not defined
+    at _callee$ (D:\Java Script\BookStore\src\services\/cart.service.js:20:41)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/carts/6214803b05253301a4fda584 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-03-13T04:39:17.828Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T04:40:24.244Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T04:40:24.270Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T04:40:33.274Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T04:40:33.343Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T04:43:51.965Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T04:43:52.004Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T04:44:03.762Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T04:44:03.819Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T04:47:45.124Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T04:47:45.163Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T04:48:36.368Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T04:48:36.428Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T04:50:18.425Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T04:50:18.463Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T05:00:21.400Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T05:00:21.436Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T05:06:06.004Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T05:06:06.026Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T05:06:33.473Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T05:06:33.496Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T05:06:41.387Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T05:06:41.405Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T05:09:16.645Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T05:09:16.675Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T05:09:21.106Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T05:09:21.130Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T05:09:34.026Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T05:09:34.049Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T05:12:12.405Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T05:12:12.433Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T05:16:05.743Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T05:16:05.769Z"}
