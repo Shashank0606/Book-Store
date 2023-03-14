@@ -89,3 +89,37 @@ info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T0
 info: Connected to the database. {"timestamp":"2023-03-13T05:12:12.433Z"}
 info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T05:16:05.743Z"}
 info: Connected to the database. {"timestamp":"2023-03-13T05:16:05.769Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T06:17:38.103Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T06:17:38.130Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T06:17:46.888Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T06:17:46.908Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-13T06:18:04.921Z"}
+info: Connected to the database. {"timestamp":"2023-03-13T06:18:04.941Z"}
+error: 
+    status - 500 
+    message - Error: Book not found
+    at _callee$ (D:\Java Script\BookStore\src\services\/cart.service.js:41:15)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/carts/640eb3844cbe480d64277e64 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-03-13T06:19:06.781Z"}
+error: 
+    status - 500 
+    message - Error: Book not found
+    at _callee$ (D:\Java Script\BookStore\src\services\/cart.service.js:41:15)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/carts/640eb3844cbe480d64277e64 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-03-13T06:19:07.911Z"}

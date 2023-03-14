@@ -7,5 +7,8 @@ const router = express.Router();
 // add books to the cart
 router.post('/:_id', userAuth, cartController.addedToCart);
 
+//remove books from the cart
+router.put('/:_id/', userAuth, cartController.removeBookFromCart);
+
 
 export default router;
