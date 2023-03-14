@@ -1062,3 +1062,40 @@ error:
     method - POST 
     IP - ::1
    {"timestamp":"2023-03-13T06:19:07.911Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T04:27:28.792Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T04:27:28.947Z"}
+error: uncaughtException: HttpStatus is not defined
+ReferenceError: HttpStatus is not defined
+    at _callee$ (D:\Java Script\BookStore\src\controllers\/wishlist.controller.js:13:20)
+    at tryCatch (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) {"date":"Tue Mar 14 2023 10:01:54 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":433426},"process":{"argv":["node","D:\\Java Script\\BookStore\\src\\index.js"],"cwd":"D:\\Java Script\\BookStore","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18287929,"external":20033079,"heapTotal":97939456,"heapUsed":91917088,"rss":135798784},"pid":18120,"uid":null,"version":"v18.12.1"},"stack":"ReferenceError: HttpStatus is not defined\n    at _callee$ (D:\\Java Script\\BookStore\\src\\controllers\\/wishlist.controller.js:13:20)\n    at tryCatch (D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:44:17)\n    at Generator.<anonymous> (D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:125:22)\n    at Generator.next (D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:69:21)\n    at asyncGeneratorStep (D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:3:24)\n    at _next (D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:22:9)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2023-03-14T04:31:54.476Z","trace":[{"column":20,"file":"D:\\Java Script\\BookStore\\src\\controllers\\/wishlist.controller.js","function":"_callee$","line":13,"method":null,"native":false},{"column":17,"file":"D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"tryCatch","line":44,"method":null,"native":false},{"column":22,"file":"D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":null,"line":125,"method":null,"native":false},{"column":21,"file":"D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"Generator.next","line":69,"method":"next","native":false},{"column":24,"file":"D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"asyncGeneratorStep","line":3,"method":null,"native":false},{"column":9,"file":"D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"_next","line":22,"method":null,"native":false},{"column":5,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":95,"method":null,"native":false}]}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T04:33:56.841Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T04:33:56.863Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T04:37:45.111Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T04:37:45.131Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T04:38:01.089Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T04:38:01.118Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T04:38:56.451Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T04:38:56.473Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T04:39:12.591Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T04:39:12.614Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T04:39:26.950Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T04:39:26.973Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T04:39:39.238Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T04:39:39.260Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T04:39:46.343Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T04:39:46.369Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T04:40:27.548Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T04:40:27.585Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T04:40:53.257Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T04:40:53.276Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T04:41:02.851Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T04:41:02.877Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T04:41:07.960Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T04:41:07.992Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T04:41:16.633Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T04:41:16.656Z"}
