@@ -14,3 +14,75 @@ info: ::1 - - [14/Mar/2023:04:41:30 +0000] "POST /api/v1/wishllist/621588af05253
 
 info: ::1 - - [14/Mar/2023:04:41:34 +0000] "PUT /api/v1/wishllist/621588af05253301a4fda5ce HTTP/1.1" 201 551 "-" "PostmanRuntime/7.31.1"
 
+info: ::1 - - [14/Mar/2023:06:01:22 +0000] "POST /api/v1/wishllist/621588af05253301a4fda5ce HTTP/1.1" 201 711 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:06:01:30 +0000] "PUT /api/v1/wishllist/621588af05253301a4fda5ce HTTP/1.1" 201 551 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:17:53:21 +0000] "PUT /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:17:54:08 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:17:54:19 +0000] "PUT /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:17:54:42 +0000] "GET /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:17:55:08 +0000] "GET /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:17:55:18 +0000] "GET /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:17:55:28 +0000] "GET /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:17:56:21 +0000] "GET /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:17:57:00 +0000] "GET /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:17:57:26 +0000] "PUT /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:17:57:34 +0000] "PUT /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:17:58:03 +0000] "GET /api/v1/carts/6214803b05253301a4fda584 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:17:58:15 +0000] "PUT /api/v1/carts/6214803b05253301a4fda584 HTTP/1.1" 400 56 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:00:19 +0000] "POST /api/v1/users HTTP/1.1" 500 60 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:00:45 +0000] "POST /api/v1/users HTTP/1.1" 201 326 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:01:02 +0000] "POST /api/v1/users/login HTTP/1.1" 202 245 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:01:30 +0000] "PUT /api/v1/carts/6214803b05253301a4fda584 HTTP/1.1" 500 48 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:01:35 +0000] "PUT /api/v1/carts/6214803b05253301a4fda584 HTTP/1.1" 400 55 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:01:46 +0000] "POST /api/v1/carts/6214803b05253301a4fda584 HTTP/1.1" 201 1333 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:01:53 +0000] "PUT /api/v1/carts/6214803b05253301a4fda584 HTTP/1.1" 201 170 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:02:01 +0000] "POST /api/v1/carts/6214803b05253301a4fda584 HTTP/1.1" 201 1333 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:02:14 +0000] "PUT /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:03:01 +0000] "PUT /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:03:18 +0000] "PUT /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:08:11 +0000] "PUT /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:08:28 +0000] "POST /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 400 64 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:08:47 +0000] "POST /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 400 110 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:10:39 +0000] "POST /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 400 110 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:11:03 +0000] "POST /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 400 110 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:11:18 +0000] "POST /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 400 110 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:11:31 +0000] "POST /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 201 62 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:13:38 +0000] "POST /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 400 164 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:13:58 +0000] "POST /api/v1/carts/purchase/6214803b05253301a4fda584 HTTP/1.1" 400 110 "-" "PostmanRuntime/7.31.1"
+
+info: ::1 - - [14/Mar/2023:18:15:05 +0000] "POST /api/v1/carts/purchase/6410b68a9ea18a8a80c3bd61 HTTP/1.1" 201 1332 "-" "PostmanRuntime/7.31.1"
+

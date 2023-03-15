@@ -1,0 +1,266 @@
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:30:10.431Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:30:10.460Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:30:23.934Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:30:23.952Z"}
+error: 
+    status - 500 
+    message - Error: CastError: Cast to ObjectId failed for value "{ _id: 'highToLow', userId: 'Shashank6@gmail.com' }" (type Object) at path "_id" for model "Books"
+    at _callee2$ (D:\react_app\SamBeta\BookStore\src\services\/book.service.js:33:15)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/books/highToLow 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:30:41.695Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:32:04.097Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:32:04.123Z"}
+error: 
+    status - 500 
+    message - Error: CastError: Cast to ObjectId failed for value "{ _id: 'highToLow', userId: 'Shashank6@gmail.com' }" (type Object) at path "_id" for model "Books"
+    at _callee2$ (D:\react_app\SamBeta\BookStore\src\services\/book.service.js:31:11)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/books/highToLow 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:32:06.581Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:32:33.691Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:32:33.718Z"}
+error: 
+    status - 500 
+    message - Error: CastError: Cast to ObjectId failed for value "{ _id: 'highToLow', userId: 'Shashank6@gmail.com' }" (type Object) at path "_id" for model "Books"
+    at _callee2$ (D:\react_app\SamBeta\BookStore\src\services\/book.service.js:31:11)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/books/highToLow 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:32:35.590Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:33:10.943Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:33:10.963Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:33:16.008Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:33:16.045Z"}
+error: 
+    status - 500 
+    message - Error: CastError: Cast to ObjectId failed for value "{ _id: 'highToLow', userId: 'Shashank6@gmail.com' }" (type Object) at path "_id" for model "Books"
+    at _callee2$ (D:\react_app\SamBeta\BookStore\src\services\/book.service.js:31:11)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/books/highToLow 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:34:16.845Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:34:40.845Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:34:40.872Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:35:00.327Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:35:00.383Z"}
+error: 
+    status - 500 
+    message - Error: TypeError: Invalid sort value: { price: true }
+    at _callee3$ (D:\react_app\SamBeta\BookStore\src\services\/book.service.js:41:11)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.highToLow (D:\react_app\SamBeta\BookStore\src\services\/book.service.js:36:23)
+    at _callee3$ (D:\react_app\SamBeta\BookStore\src\controllers\/book.controller.js:35:36)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at sortHighToLow (D:\react_app\SamBeta\BookStore\src\controllers\/book.controller.js:33:27)
+    at Layer.handle [as handle_request] (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (D:\react_app\SamBeta\BookStore\src\middlewares\/auth.middleware.js:26:5)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/books/highToLow 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:35:00.655Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:35:10.221Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:35:10.238Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:35:27.471Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:35:27.520Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:36:22.943Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:36:22.962Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:36:52.116Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:36:52.138Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:37:04.174Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:37:04.198Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:37:30.066Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:37:30.086Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:39:33.760Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:39:33.791Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:40:08.749Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:40:08.770Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:40:18.666Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:40:18.693Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:41:14.467Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:41:14.501Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:41:27.098Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:41:27.117Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:41:46.220Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:41:46.239Z"}
+error: 
+    status - 500 
+    message - Error: Cast to ObjectId failed for value "updateAddress" (type string) at path "_id" for model "Books"
+    at _callee$ (D:\react_app\SamBeta\BookStore\src\services\/cart.service.js:52:11)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/carts/updateAddress 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:44:00.312Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:44:36.818Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:44:36.838Z"}
+error: 
+    status - 500 
+    message - Error: Cast to ObjectId failed for value "updateAddress" (type string) at path "_id" for model "Books"
+    at _callee$ (D:\react_app\SamBeta\BookStore\src\services\/cart.service.js:52:11)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/carts/updateAddress 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:44:37.810Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:45:03.401Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:45:03.423Z"}
+error: 
+    status - 500 
+    message - Error: Cast to ObjectId failed for value "updateAddress" (type string) at path "_id" for model "Books"
+    at _callee$ (D:\react_app\SamBeta\BookStore\src\services\/cart.service.js:52:11)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/carts/updateAddress 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:45:06.206Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:45:34.857Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:45:34.918Z"}
+error: 
+    status - 500 
+    message - Error: Cast to ObjectId failed for value "updateAddress" (type string) at path "_id" for model "Books"
+    at _callee$ (D:\react_app\SamBeta\BookStore\src\services\/cart.service.js:52:11)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/carts/updateAddress 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:45:37.664Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:46:00.219Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:46:00.239Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:47:23.315Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:47:23.344Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:47:33.840Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:47:33.859Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:49:02.824Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:49:02.845Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:50:15.837Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:50:15.865Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:50:33.989Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:50:34.017Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:51:47.541Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:51:47.563Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:52:36.676Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:52:36.739Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:53:13.621Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:53:13.643Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:53:19.786Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:53:19.816Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:53:31.136Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:53:31.163Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:54:05.908Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:54:05.931Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:54:39.583Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:54:39.613Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:54:44.170Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:54:44.199Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:55:31.141Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:55:31.198Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:56:14.606Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:56:14.626Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:56:47.714Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:56:47.809Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:57:52.431Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:57:52.469Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:58:27.160Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:58:27.183Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:59:36.077Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:59:36.129Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:59:58.359Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:59:58.407Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T19:00:28.791Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T19:00:28.815Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T19:00:55.247Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T19:00:55.268Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T19:05:13.186Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T19:05:13.209Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T19:06:55.166Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T19:06:55.200Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T19:07:23.543Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T19:07:23.565Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T19:08:23.390Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T19:08:23.408Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T19:08:40.910Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T19:08:40.930Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T19:08:46.586Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T19:08:46.605Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T19:12:28.500Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T19:12:28.519Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T19:17:02.612Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T19:17:02.637Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T19:17:22.659Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T19:17:22.704Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T19:17:52.922Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T19:17:52.942Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T19:20:46.964Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T19:20:46.988Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-15T05:15:33.421Z"}
+info: Connected to the database. {"timestamp":"2023-03-15T05:15:33.490Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-15T05:18:14.175Z"}
+info: Connected to the database. {"timestamp":"2023-03-15T05:18:14.206Z"}

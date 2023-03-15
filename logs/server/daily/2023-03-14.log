@@ -26,3 +26,103 @@ info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T0
 info: Connected to the database. {"timestamp":"2023-03-14T04:41:07.992Z"}
 info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T04:41:16.633Z"}
 info: Connected to the database. {"timestamp":"2023-03-14T04:41:16.656Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T06:01:05.228Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T06:01:05.416Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T17:30:36.333Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T17:30:36.365Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T17:56:40.368Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T17:56:40.388Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T17:56:52.022Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T17:56:52.058Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/carts/6214803b05253301a4fda584 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2023-03-14T17:58:15.755Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:00:19.987Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid token
+    at Object.verify (D:\react_app\SamBeta\BookStore\node_modules\jsonwebtoken\verify.js:75:17)
+    at _callee$ (D:\react_app\SamBeta\BookStore\src\middlewares\/auth.middleware.js:22:28)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (D:\react_app\SamBeta\BookStore\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:284:15
+    at param (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:365:14)
+    at param (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:421:3)
+    at next (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:328:13)
+    at D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:328:13)
+    at D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\react_app\SamBeta\BookStore\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:328:13)
+    at D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:280:10)
+    at D:\react_app\SamBeta\BookStore\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (D:\react_app\SamBeta\BookStore\node_modules\raw-body\index.js:231:16)
+    at done (D:\react_app\SamBeta\BookStore\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\react_app\SamBeta\BookStore\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/carts/6214803b05253301a4fda584 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:01:30.184Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:02:58.852Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:02:58.876Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:03:15.456Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:03:15.475Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:08:07.489Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:08:07.507Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:08:47.317Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:08:47.343Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:10:36.117Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:10:36.148Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:11:00.658Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:11:00.684Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:11:16.376Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:11:16.400Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:11:31.567Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:11:31.646Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:13:32.944Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:13:32.979Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:13:57.408Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:13:57.428Z"}
+info: Server started at http://localhost:6060/api/v1/ {"timestamp":"2023-03-14T18:14:55.086Z"}
+info: Connected to the database. {"timestamp":"2023-03-14T18:14:55.115Z"}

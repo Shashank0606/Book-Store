@@ -995,3 +995,221 @@ ReferenceError: HttpStatus is not defined
     at asyncGeneratorStep (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
     at _next (D:\Java Script\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
     at processTicksAndRejections (node:internal/process/task_queues:95:5) {"date":"Tue Mar 14 2023 10:01:54 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":433426},"process":{"argv":["node","D:\\Java Script\\BookStore\\src\\index.js"],"cwd":"D:\\Java Script\\BookStore","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18287929,"external":20033079,"heapTotal":97939456,"heapUsed":91917088,"rss":135798784},"pid":18120,"uid":null,"version":"v18.12.1"},"stack":"ReferenceError: HttpStatus is not defined\n    at _callee$ (D:\\Java Script\\BookStore\\src\\controllers\\/wishlist.controller.js:13:20)\n    at tryCatch (D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:44:17)\n    at Generator.<anonymous> (D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:125:22)\n    at Generator.next (D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:69:21)\n    at asyncGeneratorStep (D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:3:24)\n    at _next (D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:22:9)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2023-03-14T04:31:54.476Z","trace":[{"column":20,"file":"D:\\Java Script\\BookStore\\src\\controllers\\/wishlist.controller.js","function":"_callee$","line":13,"method":null,"native":false},{"column":17,"file":"D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"tryCatch","line":44,"method":null,"native":false},{"column":22,"file":"D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":null,"line":125,"method":null,"native":false},{"column":21,"file":"D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"Generator.next","line":69,"method":"next","native":false},{"column":24,"file":"D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"asyncGeneratorStep","line":3,"method":null,"native":false},{"column":9,"file":"D:\\Java Script\\BookStore\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"_next","line":22,"method":null,"native":false},{"column":5,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":95,"method":null,"native":false}]}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/carts/6214803b05253301a4fda584 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2023-03-14T17:58:15.755Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:00:19.987Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid token
+    at Object.verify (D:\react_app\SamBeta\BookStore\node_modules\jsonwebtoken\verify.js:75:17)
+    at _callee$ (D:\react_app\SamBeta\BookStore\src\middlewares\/auth.middleware.js:22:28)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (D:\react_app\SamBeta\BookStore\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:284:15
+    at param (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:365:14)
+    at param (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:421:3)
+    at next (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:328:13)
+    at D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:328:13)
+    at D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\react_app\SamBeta\BookStore\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:328:13)
+    at D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\index.js:280:10)
+    at D:\react_app\SamBeta\BookStore\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (D:\react_app\SamBeta\BookStore\node_modules\raw-body\index.js:231:16)
+    at done (D:\react_app\SamBeta\BookStore\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (D:\react_app\SamBeta\BookStore\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/carts/6214803b05253301a4fda584 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:01:30.184Z"}
+error: 
+    status - 500 
+    message - Error: CastError: Cast to ObjectId failed for value "{ _id: 'highToLow', userId: 'Shashank6@gmail.com' }" (type Object) at path "_id" for model "Books"
+    at _callee2$ (D:\react_app\SamBeta\BookStore\src\services\/book.service.js:33:15)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/books/highToLow 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:30:41.695Z"}
+error: 
+    status - 500 
+    message - Error: CastError: Cast to ObjectId failed for value "{ _id: 'highToLow', userId: 'Shashank6@gmail.com' }" (type Object) at path "_id" for model "Books"
+    at _callee2$ (D:\react_app\SamBeta\BookStore\src\services\/book.service.js:31:11)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/books/highToLow 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:32:06.581Z"}
+error: 
+    status - 500 
+    message - Error: CastError: Cast to ObjectId failed for value "{ _id: 'highToLow', userId: 'Shashank6@gmail.com' }" (type Object) at path "_id" for model "Books"
+    at _callee2$ (D:\react_app\SamBeta\BookStore\src\services\/book.service.js:31:11)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/books/highToLow 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:32:35.590Z"}
+error: 
+    status - 500 
+    message - Error: CastError: Cast to ObjectId failed for value "{ _id: 'highToLow', userId: 'Shashank6@gmail.com' }" (type Object) at path "_id" for model "Books"
+    at _callee2$ (D:\react_app\SamBeta\BookStore\src\services\/book.service.js:31:11)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/books/highToLow 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:34:16.845Z"}
+error: 
+    status - 500 
+    message - Error: TypeError: Invalid sort value: { price: true }
+    at _callee3$ (D:\react_app\SamBeta\BookStore\src\services\/book.service.js:41:11)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.highToLow (D:\react_app\SamBeta\BookStore\src\services\/book.service.js:36:23)
+    at _callee3$ (D:\react_app\SamBeta\BookStore\src\controllers\/book.controller.js:35:36)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at sortHighToLow (D:\react_app\SamBeta\BookStore\src\controllers\/book.controller.js:33:27)
+    at Layer.handle [as handle_request] (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\react_app\SamBeta\BookStore\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (D:\react_app\SamBeta\BookStore\src\middlewares\/auth.middleware.js:26:5)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/books/highToLow 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:35:00.655Z"}
+error: 
+    status - 500 
+    message - Error: Cast to ObjectId failed for value "updateAddress" (type string) at path "_id" for model "Books"
+    at _callee$ (D:\react_app\SamBeta\BookStore\src\services\/cart.service.js:52:11)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/carts/updateAddress 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:44:00.312Z"}
+error: 
+    status - 500 
+    message - Error: Cast to ObjectId failed for value "updateAddress" (type string) at path "_id" for model "Books"
+    at _callee$ (D:\react_app\SamBeta\BookStore\src\services\/cart.service.js:52:11)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/carts/updateAddress 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:44:37.810Z"}
+error: 
+    status - 500 
+    message - Error: Cast to ObjectId failed for value "updateAddress" (type string) at path "_id" for model "Books"
+    at _callee$ (D:\react_app\SamBeta\BookStore\src\services\/cart.service.js:52:11)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/carts/updateAddress 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:45:06.206Z"}
+error: 
+    status - 500 
+    message - Error: Cast to ObjectId failed for value "updateAddress" (type string) at path "_id" for model "Books"
+    at _callee$ (D:\react_app\SamBeta\BookStore\src\services\/cart.service.js:52:11)
+    at tryCatch (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (D:\react_app\SamBeta\BookStore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/carts/updateAddress 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-03-14T18:45:37.664Z"}
